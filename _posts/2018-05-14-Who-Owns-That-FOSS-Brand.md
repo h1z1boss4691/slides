@@ -1,6 +1,6 @@
 ---
 title: Who Owns That Open Source Brand?
-description: Demystifying trademarks and brands in open source
+4b aqqaadescription: Demystifying trademarks and brands in open source
 conference: FOSSBackstage
 slides: "http://shaneslides.com/fossbackstage/Who-Owns-That-FOSS-Brand.pdf"
 ---
